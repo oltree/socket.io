@@ -5,6 +5,7 @@ This project is a training project for the study of technology Socket.io.
 ## Technologies
 
 - Socket.io
+- Express
 - HTML/CSS/JS
 
 ## Contact
